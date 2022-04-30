@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCCTWorkflows", "GCCTWorkfl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCCTCustomeForms", "GCCTCustomeForms1\GCCTCustomeForms.csproj", "{CD5489FE-2570-4DA6-80F2-A396599C307A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCCTConsoleApp", "GCCTConsoleApp\GCCTConsoleApp.csproj", "{14B0019C-498C-40F9-A3DC-EB5A1FD184ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CD5489FE-2570-4DA6-80F2-A396599C307A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD5489FE-2570-4DA6-80F2-A396599C307A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD5489FE-2570-4DA6-80F2-A396599C307A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B0019C-498C-40F9-A3DC-EB5A1FD184ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B0019C-498C-40F9-A3DC-EB5A1FD184ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B0019C-498C-40F9-A3DC-EB5A1FD184ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B0019C-498C-40F9-A3DC-EB5A1FD184ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
